@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Account_Service_Microservice-Search-function.iml" filepath="$PROJECT_DIR$/.idea/Account_Service_Microservice-Search-function.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Account_Service_Microservice-Search-function/user-service.iml" filepath="$PROJECT_DIR$/Account_Service_Microservice-Search-function/user-service.iml" />
     </modules>
   </component>
 </project>

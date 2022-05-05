@@ -5,7 +5,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import user_service.SQLDatabase.ICannabisDAO;
-import user_service.SQLDatabase.ICannabisDAO;
 import user_service.logic.SearchLogic;
 import user_service.logic.ISearchLogic;
 import user_service.model.Response;

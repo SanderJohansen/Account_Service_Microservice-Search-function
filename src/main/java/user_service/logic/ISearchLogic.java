@@ -1,7 +1,6 @@
 package user_service.logic;
 
 import user_service.SQLDatabase.ICannabisDAO;
-import user_service.SQLDatabase.ICannabisDAO;
 import user_service.model.Response;
 import user_service.model.Cannabis;
 
